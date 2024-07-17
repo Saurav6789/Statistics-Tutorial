@@ -1,0 +1,45 @@
+# Table of Contents 
+
+- 1 What is Statistics?
+- 2 Why is Statistics important?
+- 3 Display of Statistical data
+- 4 Populations and Samples
+- 5 Distribution of one variable
+- 6 Probability Distributions
+   - 6.1 Binomial Distribution
+   - 6.2 Poisson Distribution
+   - 6.3 Normal Distribution
+   - 6.4 Uniform Distribution
+   - 6.5 Gamma Distribution
+   - 6.6 Exponential Distribution
+   - 6.7 Benoulli Distribution
+- 7 Expected Value ,Variance and Covariance
+- 8 Degree of Freedom
+- 9 Hypothesis Testing
+   - 9.1 Statistical Hypothesis Testing
+   - 9.2 Statistical Test Intepretation
+   - 9.3 Errors in Statistical Tests
+   - 9.4 Power of Hypothesis Tests
+   - 9.5 Sensitivity and Specificity
+- 10 Central Limit Theorem
+- 11 Test of Mean of Numerical Data
+  - 11.1 One Sampel T Test
+  - 11.2 Wilcoxon Signed Rank Test
+  - 11.3 Paired T-Test
+  - 11.4 Two Sample T-Test
+  - 11.5 Mann-Whitney Test
+  - 11.6 Classical T Test
+  - 11.7 Statistical Modelling
+  - 11.8 One Way ANOVA
+  - 11.9 Tukey's Test
+  - 11.10 Bonferroni Correction
+  - 11.11 Holm Correction
+  - 11.12 Kruskal-Wallis Test
+  - 11.13 Two way ANOVA Test
+  - 11.14 Three way ANOVA Test
+  - 11.15 Selecting the right Test
+- 12 Tests on categorical data
+  - 12.1 Chi-square Test
+  - 12.2 Fisher's Exact Test
+  - 12.3 McNemar Test
+  - 12.4 Cochran's Q Test
